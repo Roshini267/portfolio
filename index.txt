@@ -1,240 +1,130 @@
-vCard - Personal Portfolio
-
-# sidebar
-
-alt = Richard hanrick
-Richard hanrick
-Web developer
-
-Show Contacts
-
-Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
-
-Location
-Sacramento, California, USA
-
-# navbar
-
-About
-Resume
-Portfolio
-Blog
-Contact
-
-# about
-
-About me
-
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
-
-## service
-
-What i'm doing
-
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
-
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
-
-
-
-# resume
-
-Resume
-
-Education
-
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
-
-Experience
-
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-My skills
-
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
-
-
-# portfolio
-
-Portfolio
-
-All
-Web design
-Applications
-Web development
-
-Select category
-All
-Web design
-Applications
-Web development
-
-alt = finance
-Finance
-Web development
-
-alt = orizon
-Orizon
-Web development
-
-alt = fundo
-Fundo
-Web design
-
-alt = brawlhalla
-Brawlhalla
-Applications
-
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
-
-# contact
-
-Contact
-
-Contact Form
-
-Full name
-Email address
-Your Message
-
-Send Message
+Roshini Thalari - Personal Portfolio
+
+=========================================
+# SIDEBAR
+=========================================
+Avatar Alt: Roshini Thalari[cite: 3]
+Name: Roshini Thalari[cite: 3]
+Title: Web Developer[cite: 3]
+
+[Button]: Show Contacts[cite: 3]
+
+--- Contacts ---
+Email: thalariroshini@gmail.com[cite: 3]
+Phone: +91 9441831837[cite: 3]
+Languages: Telugu || English || Hindi[cite: 3]
+Location: India
+
+--- Social Links ---
+LinkedIn
+GitHub
+
+=========================================
+# NAVBAR
+=========================================
+- About[cite: 3]
+- Resume[cite: 3]
+- Portfolio[cite: 3]
+- Contact[cite: 3]
+
+=========================================
+# ABOUT
+=========================================
+Title: About me[cite: 3]
+
+[Paragraph 1]
+I am a passionate and motivated student currently pursuing my Bachelor's degree at Annamacharya Institute of Technology and Sciences (AITS). I am eager to learn new technologies, develop my professional skills, and gain practical experience in the field of technology.[cite: 3]
+
+[Paragraph 2]
+I am a quick learner, a team player, and always ready to take on new challenges. I have built a solid foundation in core web building blocks, allowing me to build neat and structured website layouts.[cite: 3]
+
+-----------------------------------------
+## SERVICE (What i'm doing)
+-----------------------------------------
+Icon Alt: design icon
+Title: Web Design[cite: 3]
+Text: Creating custom webpage designs, clean layout variations, and intuitive responsive user interfaces.[cite: 3]
+
+Icon Alt: Web development icon
+Title: Web Development[cite: 3]
+Text: Building structured, scalable, and fully clean front-end web platforms based on exact design concepts.[cite: 3]
+
+-----------------------------------------
+## ACHIEVEMENTS
+-----------------------------------------
+Achievement 1:
+Developed a personal website dedicated to actor Nani using HTML and CSS, which helped me improve my skills in webpage design and layout creation.[cite: 3]
+
+Achievement 2:
+Completed multiple professional engineering internships across diverse software development sectors.[cite: 3]
+
+Achievement 3:
+Earned clear certifications in Web Development and other technical training programs.[cite: 3]
+
+=========================================
+# RESUME
+=========================================
+Title: Resume[cite: 3]
+
+-----------------------------------------
+## INTERNSHIPS
+-----------------------------------------
+Companies: Scaro Technologies, Atrisol Technologies, and Axpert Solutions[cite: 3]
+Role: Technical Intern[cite: 3]
+Text: Gained hands-on experience in software development, web technologies, and professional industry practices.[cite: 3]
+
+-----------------------------------------
+## EDUCATION
+-----------------------------------------
+Institution: Annamacharya Institute of Technology and Sciences (AITS)[cite: 3]
+Degree: Bachelor of Technology (B.Tech) - Computer Science and Information Technology (CSIT)[cite: 3]
+
+Institution: IIT Amaravati Academy[cite: 3]
+Timeline: 2022 — 2024[cite: 3]
+Text: Completed Intermediate education (MPC) with a focus on Mathematics, Physics, and Chemistry.[cite: 3]
+
+Institution: Silver Bells Central School[cite: 3]
+Timeline: Completed in 2022[cite: 3]
+Text: Completed secondary education (SSC) with a strong academic foundation.[cite: 3]
+
+-----------------------------------------
+## CERTIFICATIONS
+-----------------------------------------
+Program: Web Development & Technical Training[cite: 3]
+Text: Earned formal credentials demonstrating a commitment to continuous learning and skill development in the field of technology.[cite: 3]
+
+-----------------------------------------
+## MY SKILLS
+-----------------------------------------
+- HTML5: 90%[cite: 3]
+- CSS3: 85%[cite: 3]
+- Webpage Design: 80%[cite: 3]
+- Responsive Layouts: 80%[cite: 3]
+
+=========================================
+# PORTFOLIO
+=========================================
+Title: Portfolio[cite: 3]
+
+Filters: All / Web Design / Web Development[cite: 3]
+
+--- Projects ---
+Image Alt: Nani Fan Website[cite: 3]
+Title: Actor Nani Fan Website[cite: 3]
+Category: Web Design & Development[cite: 3]
+Description: Designed and developed a personal website dedicated to actor Nani using HTML and CSS. Created a user-friendly interface with sections such as biography, movies, awards, gallery, and contact information to enhance web development skills.[cite: 3]
+
+=========================================
+# CONTACT
+=========================================
+Title: Contact[cite: 3]
+
+Map: Embedded Google Maps frame
+
+--- Contact Form ---
+Form Fields: 
+  - Full name (Input)[cite: 3]
+  - Email address (Input)[cite: 3]
+  - Your Message (Textarea)[cite: 3]
+
+[Button]: Send Message[cite: 3]
